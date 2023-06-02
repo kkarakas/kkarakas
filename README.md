@@ -1,5 +1,6 @@
 ### Hi there I'm Kutay👋
 
+[![](https://img.shields.io/badge/Website-green)](https://kutaykarakas.com/)
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kutay-karakas-0a0b25195/)
 
 I am a Computer Science student in SEAS at Columbia University. I mainly develop projects in Python and Java.
