@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Website-green)](https://kutaykarakas.com/)
 [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kutay-karakas-0a0b25195/)
 
-Doftware engineer at StageWood, Open source contributer to PC^2. I mainly develop projects in Python, Java and Typescript. I am learning Go. Columbia Uni SEAS graduate.
+Software engineer at StageWood, Open source contributer to PC^2. I mainly develop projects in Python, Java and Typescript. I am learning Go. Columbia Uni SEAS graduate.
 
 
 You can find my resume [here](https://drive.google.com/file/d/12v8nFApZy16l-Ag0lYmwgmA_nvIQ6qyQ/view?usp=share_link).
