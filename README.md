@@ -6,8 +6,6 @@
 Software engineer at StageWood, Open source contributer to PC^2. I mainly develop projects in Python, Java and Typescript. I am learning Go. Columbia Uni SEAS graduate.
 
 
-You can find my resume [here](https://drive.google.com/file/d/12v8nFApZy16l-Ag0lYmwgmA_nvIQ6qyQ/view?usp=share_link).
-
 ![](https://github-readme-stats.vercel.app/api?username=kkarakas)
 
 
